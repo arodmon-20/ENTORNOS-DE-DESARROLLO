@@ -25,6 +25,6 @@ Módulos del Ciclo
 
 Comentarios
 
-<Tengo muchas ganas de aprender a programar una pagina web con Python>
+Tengo muchas ganas de aprender a programar una pagina web con Python
 
 
